@@ -34,8 +34,7 @@
 * [📊 Model Evaluation](#-model-evaluation)
 * [💼 Business Benefits](#-business-benefits)
 * [🚀 Future Enhancements](#-future-enhancements)
-* [👥 Team](#-team)
-
+* [👥 Team Members](#-team-members)
 
 ---
 
@@ -51,13 +50,13 @@ The model is trained using the **X Education Lead Scoring dataset**.
 
 ### 🎯 Project Objectives
 
-| Objective              | Description                                                   |
-| ---------------------- | ------------------------------------------------------------- |
-| Lead Scoring           | Estimate the likelihood of a lead converting into a customer. |
-| Lead Prioritization    | Help sales teams focus on potentially valuable prospects.     |
-| Data Analytics         | Identify patterns and trends in historical lead data.         |
-| Bulk Prediction        | Score multiple leads through a CSV upload.                    |
-| Performance Monitoring | Present model evaluation metrics and training information.    |
+| Objective                 | Description                                                   |
+| ------------------------- | ------------------------------------------------------------- |
+| 🎯 Lead Scoring           | Estimate the likelihood of a lead converting into a customer. |
+| ⚡ Lead Prioritization     | Help sales teams focus on potentially valuable prospects.     |
+| 📊 Data Analytics         | Identify patterns and trends in historical lead data.         |
+| 📂 Bulk Prediction        | Score multiple leads through a CSV upload.                    |
+| 📈 Performance Monitoring | Present model evaluation metrics and training information.    |
 
 ---
 
@@ -95,7 +94,7 @@ Without a systematic prioritization process, businesses may spend valuable time 
 | **NumPy**        | Numerical operations                      |
 | **Scikit-learn** | Machine learning and predictive modeling  |
 | **Streamlit**    | Interactive web application               |
-| **Plotly**       | Data visualization and interactive charts |
+| **Plotly**       | Interactive charts and data visualization |
 | **Joblib**       | Saving and loading the trained model      |
 | **CSV & JSON**   | Dataset storage and model metadata        |
 | **Git & GitHub** | Version control and project hosting       |
@@ -232,7 +231,7 @@ If it does not, open the local address displayed in your terminal, usually:
 
 `http://localhost:8501`
 
-### Requirements
+### System Requirements
 
 * Python installed on your system
 * Git installed on your system
@@ -259,25 +258,23 @@ The dashboard can also display:
 * Number of input features
 * Historical conversion rate
 
-**Note:** Refer to the application's current Model Performance page and generated model metrics for actual results. The metrics above describe evaluation measures; they are not claims about the model's achieved performance.
+Refer to the application's **Model Performance** page and generated model metrics for actual results.
 
 ---
 
 ## 💼 Business Benefits
 
-| Business Challenge                         | Potential Benefit                                                              |
-| ------------------------------------------ | ------------------------------------------------------------------------------ |
-| Too many leads to review manually          | Automated lead scoring can help streamline prioritization.                     |
-| Limited sales team resources               | Sales teams can focus follow-up efforts using predicted conversion likelihood. |
-| Difficulty identifying conversion patterns | Analytics can help reveal trends in historical lead data.                      |
-| Need to evaluate multiple leads            | Bulk scoring supports batch prediction workflows.                              |
-| Limited visibility into model performance  | Evaluation metrics provide insight into predictive performance.                |
+| Business Challenge                         | Potential Benefit                                                           |
+| ------------------------------------------ | --------------------------------------------------------------------------- |
+| Too many leads to review manually          | Automated lead scoring helps streamline prioritization.                     |
+| Limited sales team resources               | Sales teams can prioritize follow-up using predicted conversion likelihood. |
+| Difficulty identifying conversion patterns | Analytics can help reveal trends in historical lead data.                   |
+| Need to evaluate multiple leads            | Bulk scoring supports batch prediction workflows.                           |
+| Limited visibility into model performance  | Evaluation metrics provide insight into predictive performance.             |
 
 ---
 
 ## 🚀 Future Enhancements
-
-Potential improvements for future versions include:
 
 * [ ] Deploy the application to a cloud platform.
 * [ ] Add model explainability using SHAP.
@@ -290,27 +287,34 @@ Potential improvements for future versions include:
 
 ---
 
-## 👥 Team
+## 👥 Team Members
 
-### 🔷 Team Orion
+<p align="center">
+  <strong>🔷 TEAM ORION</strong>
+</p>
 
-| Detail                    | Information                                                                      |
-| ------------------------- | -------------------------------------------------------------------------------- |
-| **Project Name**          | Lead Intent & Priority Scorer                                                    |
-| **Team Name**             | Team Orion                                                                       |
-| **Project Domain**        | Artificial Intelligence, Machine Learning & Data Analytics                       |
-| **Application Framework** | Streamlit                                                                        |
-| **Programming Language**  | Python                                                                           |
-| **Repository**            | [GitHub Repository](https://github.com/aditya280505/lead-intent-priority-scorer) |
+| Sr. No. | Team Member            |
+| :-----: | ---------------------- |
+|    1    | **Yashraj Kad**        |
+|    2    | **Aditya Borgaonkar**  |
+|    3    | **Anish Jagtap**       |
+|    4    | **Harshwardhan Chate** |
+
+### 📌 Project Details
+
+| Detail                   | Information                                                                                            |
+| ------------------------ | ------------------------------------------------------------------------------------------------------ |
+| **Project Name**         | Lead Intent & Priority Scorer                                                                          |
+| **Team Name**            | Team Orion                                                                                             |
+| **Domain**               | Artificial Intelligence, Machine Learning & Data Analytics                                             |
+| **Programming Language** | Python                                                                                                 |
+| **Framework**            | Streamlit                                                                                              |
+| **Repository**           | [Lead Intent & Priority Scorer on GitHub](https://github.com/aditya280505/lead-intent-priority-scorer) |
 
 ---
-
-
-
-
 
 <p align="center">
   <strong>Built with Python, Machine Learning & Streamlit</strong>
   <br>
-  <strong> Team Orion</strong>
+  <strong>💙 Team Orion</strong>
 </p>

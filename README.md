@@ -289,9 +289,7 @@ Refer to the application's **Model Performance** page and generated model metric
 
 ## 👥 Team Members
 
-<p align="center">
-  <strong>🔷 TEAM ORION</strong>
-</p>
+**🔷 TEAM ORION**
 
 | Sr. No. | Team Member            |
 | :-----: | ---------------------- |
@@ -299,6 +297,7 @@ Refer to the application's **Model Performance** page and generated model metric
 |    2    | **Aditya Borgaonkar**  |
 |    3    | **Anish Jagtap**       |
 |    4    | **Harshwardhan Chate** |
+
 
 ### 📌 Project Details
 

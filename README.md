@@ -173,12 +173,10 @@ The actual performance depends on the trained model and the dataset. Refer to th
 **Domain:** Artificial Intelligence, Machine Learning and Data Analytics
 **Team:** Orion
 
-## ⚠️ Disclaimer
 
-This project is an educational prototype developed for learning and demonstration purposes. Predictions are estimates based on historical data and should be evaluated alongside business context and human judgment.
 
 ---
 
 <p align="center">
-  <b>Built with Python, Machine Learning and Streamlit by Team Orion 💙</b>
+  <b>Built with Python, Machine Learning and Streamlit by Team Orion </b>
 </p>

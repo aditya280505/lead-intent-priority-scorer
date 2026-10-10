@@ -35,7 +35,7 @@
 * [💼 Business Benefits](#-business-benefits)
 * [🚀 Future Enhancements](#-future-enhancements)
 * [👥 Team](#-team)
-* [⚠️ Disclaimer](#️-disclaimer)
+
 
 ---
 
@@ -305,16 +305,12 @@ Potential improvements for future versions include:
 
 ---
 
-## ⚠️ Disclaimer
 
-This project is an educational prototype developed for learning and demonstration purposes.
 
-Predictions are estimates based on historical data and model assumptions. They should be interpreted alongside relevant business context and human judgment rather than used as the sole basis for important business decisions.
 
----
 
 <p align="center">
   <strong>Built with Python, Machine Learning & Streamlit</strong>
   <br>
-  <strong>💙 Team Orion</strong>
+  <strong> Team Orion</strong>
 </p>
